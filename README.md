@@ -49,7 +49,7 @@ Using Microsoft Azure Cloud Service
 # Chapter 1
 
 # Setup: Sensor-Module
-
+<img align="right" src="pictures/piimager.png" width= 500/>
 ### 1.1 Project Road Map
 
 In this section we will discuss about how our project is planned, its working architecture and
